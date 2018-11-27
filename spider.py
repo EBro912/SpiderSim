@@ -64,7 +64,7 @@ async def help(ctx):
 
 @spood.command()
 async def source(ctx):
-    """Curious about where the hell i came from?"""
+    """Curious about where the hell I came from?"""
     await ctx.send("Heres my github, enjoy nerd\nhttps://github.com/Skullbite/SpiderSim")
 
 @spood.command()
